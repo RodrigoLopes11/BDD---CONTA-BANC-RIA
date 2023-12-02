@@ -14,7 +14,7 @@ especiais com saldos negativos.
 <img src="Cenários Cucumber.png">
 
 ## Resultados no Testes JUnit
-<img src="img/Teste JUnit.png">
+<img src="Teste JUnit.png">
 
 ## Última Atualização 01/12/2023
 ## Autor: Rodrigo Antonio de Oliveira Lopes
