@@ -11,10 +11,10 @@ especiais com saldos negativos.
 - Javadoc
 
 ## Cenários no Cucumber
-<img src="img/cucumber.PNG">
+<img src="img/Cenários Cucumber.png">
 
 ## Resultados no Testes JUnit
-<img src="img/print.PNG">
+<img src="img/Teste JUnit.PNG">
 
 ## Última Atualização 01/12/2023
-## Autor: Wilson Cassillo Neto
+## Autor: Rodrigo Antonio de Oliveira Lopes
