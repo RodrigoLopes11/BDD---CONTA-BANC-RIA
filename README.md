@@ -11,7 +11,7 @@ especiais com saldos negativos.
 - Javadoc
 
 ## Cenários no Cucumber
-<img src="img/Cenários Cucumber.png">
+<img src="Cenários Cucumber.png">
 
 ## Resultados no Testes JUnit
 <img src="img/Teste JUnit.png">
